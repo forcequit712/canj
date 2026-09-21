@@ -14,12 +14,12 @@ If Oshpark won't work, there are many other manufacturers like LCSC, PCBway and 
 
 Shipping from Digikey is not free, so make sure to combine orders if you have multiple to pay less.
 
-##Instructions
+## Instructions
 
-Solder a 120 ohm 1206 SMD resistor to the side marked 'R'
-Bridge the pads marked 'B'
-Place the switch, with proper pin orientation to pin 1 and the silkscreen 'E' from the body of the switch
-Solder the switch.
-Connect CAN wires
-The side marked 'R' should be on the side the bus coming from the direction of the systemcore/rio.
-Do not wire the 'B' side to the systemcore/rio or it will not work.
+1. Solder a 120 ohm 1206 SMD resistor to the side marked 'R'
+2. Bridge the pads marked 'B'
+3. Place the switch, with proper pin orientation to pin 1 and the silkscreen 'E' from the body of the switch
+4. Solder the switch.
+5. Connect CAN wires
+6. The side marked 'R' should be on the side the bus coming from the direction of the systemcore/rio.
+7. Do not wire the 'B' side to the systemcore/rio or it will not work.
